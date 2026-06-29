@@ -24,7 +24,7 @@
   <circle cx="150" cy="100" r="120" fill="#00E5FF" opacity="0.06"/>
   <circle cx="750" cy="280" r="100" fill="#7C3AED" opacity="0.06"/>
   <rect x="30" y="30" width="840" height="320" rx="20" fill="rgba(255,255,255,0.05)" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
-  <text x="50" y="115" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="52" font-weight="700" fill="#F8FAFC" letter-spacing="-0.5">Vinod Raj</text>
+  <text x="50" y="115" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="52" font-weight="700" fill="#F8FAFC" letter-spacing="-0.5">Vinodraj</text>
   <rect x="50" y="135" width="180" height="32" rx="16" fill="rgba(0,229,255,0.1)" stroke="rgba(0,229,255,0.3)" stroke-width="1"/>
   <text x="140" y="156" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="600" fill="#00E5FF" text-anchor="middle">Full Stack Developer</text>
   <rect x="260" y="135" width="140" height="32" rx="16" fill="rgba(124,58,237,0.1)" stroke="rgba(124,58,237,0.3)" stroke-width="1"/>

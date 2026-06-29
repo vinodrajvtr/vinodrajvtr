@@ -1,15 +1,12 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner.svg">
-    <img src="assets/banner.svg" width="100%" alt="Vinod Raj - Full Stack Developer & AI Engineer" style="max-width: 900px;">
+    <img src="assets/banner.svg" width="100%" alt="Vinodraj - Full Stack Developer & AI Engineer" style="max-width: 900px;">
   </picture>
 </p>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/divider.svg">
-    <img src="assets/divider.svg" width="100%" alt="divider" style="max-width: 800px;">
-  </picture>
+  <img src="assets/divider.svg" width="100%" alt="divider" style="max-width: 800px;">
 </div>
 
 <div align="center">
@@ -27,7 +24,7 @@
 <div style="border-bottom: 2px solid #00E5FF; width: 60px; margin-bottom: 16px;"></div>
 
 <p align="left" style="font-family: system-ui; color: #94A3B8; line-height: 1.7; font-size: 15px;">
-  Full Stack Developer and AI Engineer with <strong style="color: #F8FAFC;">5+ years</strong> of experience building production-grade applications.
+  Full Stack Developer and AI Engineer with <strong style="color: #F8FAFC;">4+ years</strong> of experience building production-grade applications.
 </p>
 
 <p align="left" style="font-family: system-ui; color: #94A3B8; line-height: 1.7; font-size: 15px;">
@@ -40,10 +37,7 @@
 
 </td>
 <td width="40%" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/avatar-frame.svg">
-    <img src="assets/avatar-frame.svg" width="180" alt="Avatar" style="max-width: 180px;">
-  </picture>
+  <img src="assets/avatar-frame.svg" width="180" alt="Avatar" style="max-width: 180px;">
 </td>
 </tr>
 </table>
@@ -51,10 +45,7 @@
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/divider.svg">
-    <img src="assets/divider.svg" width="100%" alt="divider" style="max-width: 800px;">
-  </picture>
+  <img src="assets/divider.svg" width="100%" alt="divider" style="max-width: 800px;">
 </div>
 
 <!-- Skills Section -->
@@ -135,10 +126,7 @@
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/divider.svg">
-    <img src="assets/divider.svg" width="100%" alt="divider" style="max-width: 800px;">
-  </picture>
+  <img src="assets/divider.svg" width="100%" alt="divider" style="max-width: 800px;">
 </div>
 
 <!-- Experience Section -->
@@ -154,7 +142,7 @@
 
 <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.06); border-radius: 12px; padding: 20px; margin: 8px;">
   <h4 style="color: #00E5FF; margin: 0 0 4px 0;">Full Stack Development</h4>
-  <p style="color: #64748B; font-size: 13px; margin: 0 0 8px 0;">5+ years</p>
+  <p style="color: #64748B; font-size: 13px; margin: 0 0 8px 0;">4+ years</p>
   <p style="color: #94A3B8; font-size: 14px; margin: 0; line-height: 1.6;">
     End-to-end application development using React, Next.js, .NET Core, and TypeScript. Built and shipped production systems serving thousands of users.
   </p>
@@ -189,7 +177,7 @@
 
 <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.06); border-radius: 12px; padding: 20px; margin: 8px;">
   <h4 style="color: #00E5FF; margin: 0 0 4px 0;">Team Collaboration</h4>
-  <p style="color: #64748B; font-size: 13px; margin: 0 0 8px 0;">5+ years</p>
+  <p style="color: #64748B; font-size: 13px; margin: 0 0 8px 0;">4+ years</p>
   <p style="color: #94A3B8; font-size: 14px; margin: 0; line-height: 1.6;">
     Agile development across cross-functional teams. Mentored junior developers, conducted code reviews, and championed engineering best practices.
   </p>
@@ -202,10 +190,7 @@
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/divider.svg">
-    <img src="assets/divider.svg" width="100%" alt="divider" style="max-width: 800px;">
-  </picture>
+  <img src="assets/divider.svg" width="100%" alt="divider" style="max-width: 800px;">
 </div>
 
 <!-- Featured Projects -->
@@ -291,10 +276,7 @@
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/divider.svg">
-    <img src="assets/divider.svg" width="100%" alt="divider" style="max-width: 800px;">
-  </picture>
+  <img src="assets/divider.svg" width="100%" alt="divider" style="max-width: 800px;">
 </div>
 
 <!-- Current Focus -->
@@ -316,10 +298,7 @@
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/divider.svg">
-    <img src="assets/divider.svg" width="100%" alt="divider" style="max-width: 800px;">
-  </picture>
+  <img src="assets/divider.svg" width="100%" alt="divider" style="max-width: 800px;">
 </div>
 
 <!-- Timeline Section -->
@@ -330,19 +309,13 @@
 <br/>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/timeline.svg">
-    <img src="assets/timeline.svg" width="100%" alt="Timeline" style="max-width: 600px;">
-  </picture>
+  <img src="assets/timeline.svg" width="100%" alt="Timeline" style="max-width: 600px;">
 </p>
 
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/divider.svg">
-    <img src="assets/divider.svg" width="100%" alt="divider" style="max-width: 800px;">
-  </picture>
+  <img src="assets/divider.svg" width="100%" alt="divider" style="max-width: 800px;">
 </div>
 
 <!-- GitHub Statistics -->
@@ -415,10 +388,7 @@
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/divider.svg">
-    <img src="assets/divider.svg" width="100%" alt="divider" style="max-width: 800px;">
-  </picture>
+  <img src="assets/divider.svg" width="100%" alt="divider" style="max-width: 800px;">
 </div>
 
 <!-- Achievements -->
@@ -429,7 +399,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/5%2B_Years_Experience-00E5FF?style=for-the-badge&logo=medal&logoColor=black" alt="5+ Years" height="32"/>
+  <img src="https://img.shields.io/badge/4%2B_Years_Experience-00E5FF?style=for-the-badge&logo=medal&logoColor=black" alt="4+ Years" height="32"/>
   <img src="https://img.shields.io/badge/AI_Engineer-7C3AED?style=for-the-badge&logo=robot&logoColor=white" alt="AI Engineer" height="32"/>
   <img src="https://img.shields.io/badge/Full_Stack_Developer-38BDF8?style=for-the-badge&logo=code&logoColor=black" alt="Full Stack" height="32"/>
   <img src="https://img.shields.io/badge/Open_Source-000000?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source" height="32"/>
@@ -441,10 +411,7 @@
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/divider.svg">
-    <img src="assets/divider.svg" width="100%" alt="divider" style="max-width: 800px;">
-  </picture>
+  <img src="assets/divider.svg" width="100%" alt="divider" style="max-width: 800px;">
 </div>
 
 <!-- Coding Philosophy -->
@@ -465,7 +432,7 @@
 <div style="width: 60px; height: 2px; background: linear-gradient(90deg, #00E5FF, #7C3AED); margin: 20px auto 0;"></div>
 
 <p style="font-family: system-ui; color: #64748B; font-size: 14px; margin: 12px 0 0 0; letter-spacing: 1px;">
-  — Vinod Raj
+  — Vinodraj
 </p>
 
 </td>
@@ -475,10 +442,7 @@
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/divider.svg">
-    <img src="assets/divider.svg" width="100%" alt="divider" style="max-width: 800px;">
-  </picture>
+  <img src="assets/divider.svg" width="100%" alt="divider" style="max-width: 800px;">
 </div>
 
 <!-- Connect -->
@@ -492,26 +456,14 @@
   <a href="https://github.com/vinodrajvtr" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="36"/>
   </a>
-  <a href="https://linkedin.com/in/vinodrajvtr" target="_blank">
+  <a href="https://linkedin.com/in/vinodraj-thenraj" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="36"/>
   </a>
-  <a href="https://portfolio.example.com" target="_blank">
+  <a href="https://vinodraj-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=react&logoColor=black" alt="Portfolio" height="36"/>
   </a>
-  <a href="mailto:vinodraj@example.com" target="_blank">
+  <a href="mailto:vinodraj_t@yahoo.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="36"/>
-  </a>
-  <a href="https://leetcode.com/vinodrajvtr" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" height="36"/>
-  </a>
-  <a href="https://medium.com/@vinodrajvtr" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" height="36"/>
-  </a>
-  <a href="https://twitter.com/vinodrajvtr" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter/X" height="36"/>
-  </a>
-  <a href="https://instagram.com/vinodrajvtr" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="36"/>
   </a>
 </p>
 
@@ -520,10 +472,7 @@
 
 <!-- Footer -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/footer-wave.svg">
-    <img src="assets/footer-wave.svg" width="100%" alt="Footer Wave" style="max-width: 900px;">
-  </picture>
+  <img src="assets/footer-wave.svg" width="100%" alt="Footer Wave" style="max-width: 900px;">
 </p>
 
 <p align="center" style="font-family: system-ui; color: #64748B; font-size: 12px;">

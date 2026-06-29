@@ -1,33 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="900" height="120">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 100" width="900" height="100">
   <defs>
-    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0D1117;stop-opacity:0" />
-      <stop offset="50%" style="stop-color:#0D1117;stop-opacity:1" />
+    <linearGradient id="waveBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:transparent;stop-opacity:0" />
       <stop offset="100%" style="stop-color:#0D1117;stop-opacity:1" />
     </linearGradient>
-    <linearGradient id="waveLineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="waveLine" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" style="stop-color:#7C3AED;stop-opacity:0" />
-      <stop offset="20%" style="stop-color:#00E5FF;stop-opacity:0.3" />
-      <stop offset="50%" style="stop-color:#38BDF8;stop-opacity:0.5" />
-      <stop offset="80%" style="stop-color:#00E5FF;stop-opacity:0.3" />
+      <stop offset="20%" style="stop-color:#00E5FF;stop-opacity:0.25" />
+      <stop offset="50%" style="stop-color:#38BDF8;stop-opacity:0.4" />
+      <stop offset="80%" style="stop-color:#00E5FF;stop-opacity:0.25" />
       <stop offset="100%" style="stop-color:#7C3AED;stop-opacity:0" />
     </linearGradient>
-    <linearGradient id="waveFillGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#00E5FF;stop-opacity:0.06" />
+    <linearGradient id="waveFill" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#00E5FF;stop-opacity:0.05" />
       <stop offset="100%" style="stop-color:#7C3AED;stop-opacity:0" />
     </linearGradient>
   </defs>
-  <rect width="900" height="120" fill="url(#waveGrad)"/>
-  <path d="M 0 60 Q 75 30 150 50 Q 225 70 300 45 Q 375 20 450 40 Q 525 60 600 38 Q 675 16 750 35 Q 825 54 900 40 L 900 120 L 0 120 Z" fill="url(#waveFillGrad)" stroke="none">
+  <rect width="900" height="100" fill="url(#waveBg)"/>
+  <path fill="url(#waveFill)" stroke="none">
     <animate attributeName="d" values="
-      M 0 60 Q 75 30 150 50 Q 225 70 300 45 Q 375 20 450 40 Q 525 60 600 38 Q 675 16 750 35 Q 825 54 900 40 L 900 120 L 0 120 Z;
-      M 0 55 Q 75 45 150 38 Q 225 30 300 50 Q 375 70 450 35 Q 525 15 600 45 Q 675 60 750 30 Q 825 20 900 45 L 900 120 L 0 120 Z;
-      M 0 60 Q 75 30 150 50 Q 225 70 300 45 Q 375 20 450 40 Q 525 60 600 38 Q 675 16 750 35 Q 825 54 900 40 L 900 120 L 0 120 Z"
+      M 0 50 Q 75 25 150 42 Q 225 58 300 38 Q 375 18 450 35 Q 525 52 600 32 Q 675 14 750 30 Q 825 45 900 35 L 900 100 L 0 100 Z;
+      M 0 45 Q 75 38 150 32 Q 225 25 300 42 Q 375 58 450 30 Q 525 12 600 38 Q 675 50 750 25 Q 825 18 900 38 L 900 100 L 0 100 Z;
+      M 0 50 Q 75 25 150 42 Q 225 58 300 38 Q 375 18 450 35 Q 525 52 600 32 Q 675 14 750 30 Q 825 45 900 35 L 900 100 L 0 100 Z"
       dur="6s" repeatCount="indefinite"/>
   </path>
-  <line x1="0" y1="55" x2="900" y2="55" stroke="url(#waveLineGrad)" stroke-width="0.5">
-    <animate attributeName="y1" values="55;50;55" dur="6s" repeatCount="indefinite"/>
-    <animate attributeName="y2" values="55;50;55" dur="6s" repeatCount="indefinite"/>
+  <line x1="0" y1="48" x2="900" y2="48" stroke="url(#waveLine)" stroke-width="0.5">
+    <animate attributeName="y1" values="48;43;48" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="y2" values="48;43;48" dur="6s" repeatCount="indefinite"/>
   </line>
-  <text x="450" y="100" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="400" fill="#64748B" text-anchor="middle" letter-spacing="2">Thanks for visiting</text>
+  <text x="450" y="85" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="400" fill="#64748B" text-anchor="middle" letter-spacing="2">Thanks for visiting</text>
 </svg>
