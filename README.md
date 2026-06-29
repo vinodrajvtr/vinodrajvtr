@@ -1,8 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner.svg">
-    <img src="assets/banner.svg" width="100%" alt="Vinodraj - Full Stack Developer & AI Engineer" style="max-width: 900px;">
-  </picture>
+  <img src="assets/banner.svg" width="100%" alt="Vinodraj - Full Stack Developer & AI Engineer" style="max-width: 900px;">
 </p>
 
 <div align="center">
@@ -328,16 +325,10 @@
 <table align="center" width="100%">
 <tr>
 <td width="50%" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vinodrajvtr&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7C3AED&text_color=F8FAFC&border_radius=12" />
-    <img src="https://github-readme-stats.vercel.app/api?username=vinodrajvtr&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7C3AED&text_color=F8FAFC&border_radius=12" width="100%" alt="GitHub Stats" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=vinodrajvtr&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7C3AED&text_color=F8FAFC&border_radius=12" width="100%" alt="GitHub Stats" />
 </td>
 <td width="50%" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vinodrajvtr&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=F8FAFC&border_radius=12" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinodrajvtr&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=F8FAFC&border_radius=12" width="100%" alt="Top Languages" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinodrajvtr&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=F8FAFC&border_radius=12" width="100%" alt="Top Languages" />
 </td>
 </tr>
 </table>
@@ -347,16 +338,10 @@
 <table align="center" width="100%">
 <tr>
 <td width="50%" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=vinodrajvtr&hide_border=true&background=0D1117&stroke=00E5FF&ring=00E5FF&fire=7C3AED&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=00E5FF&sideLabels=94A3B8&dates=64748B&border_radius=12" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinodrajvtr&hide_border=true&background=0D1117&stroke=00E5FF&ring=00E5FF&fire=7C3AED&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=00E5FF&sideLabels=94A3B8&dates=64748B&border_radius=12" width="100%" alt="Streak Stats" />
-  </picture>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinodrajvtr&hide_border=true&background=0D1117&stroke=00E5FF&ring=00E5FF&fire=7C3AED&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=00E5FF&sideLabels=94A3B8&dates=64748B&border_radius=12" width="100%" alt="Streak Stats" />
 </td>
 <td width="50%" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=vinodrajvtr&theme=onedark&no-frame=true&no-bg=true&column=2&row=2&margin-w=15&margin-h=15" />
-    <img src="https://github-profile-trophy.vercel.app/?username=vinodrajvtr&theme=onedark&no-frame=true&no-bg=true&column=2&row=2&margin-w=15&margin-h=15" width="100%" alt="Trophies" />
-  </picture>
+  <img src="https://github-profile-trophy.vercel.app/?username=vinodrajvtr&theme=onedark&no-frame=true&no-bg=true&column=2&row=2&margin-w=15&margin-h=15" width="100%" alt="Trophies" />
 </td>
 </tr>
 </table>
@@ -364,19 +349,13 @@
 <br/>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=vinodrajvtr&bg_color=0D1117&color=00E5FF&line=7C3AED&point=38BDF8&area=true&hide_border=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinodrajvtr&bg_color=0D1117&color=00E5FF&line=7C3AED&point=38BDF8&area=true&hide_border=true" width="95%" alt="Activity Graph" />
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinodrajvtr&bg_color=0D1117&color=00E5FF&line=7C3AED&point=38BDF8&area=true&hide_border=true" width="95%" alt="Activity Graph" />
 </p>
 
 <br/>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinodrajvtr/vinodrajvtr/output/github-contribution-grid-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/vinodrajvtr/vinodrajvtr/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution Snake" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/vinodrajvtr/vinodrajvtr/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution Snake" />
 </p>
 
 <br/>

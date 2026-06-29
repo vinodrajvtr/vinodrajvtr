@@ -55,6 +55,6 @@
     </circle>
     <circle cx="80" cy="415" r="4" fill="url(#tlDot)"/>
     <text x="105" y="420" font-family="system-ui, sans-serif" font-size="11" font-weight="600" fill="#00E5FF">2026</text>
-    <text x="105" y="435" font-family="system-ui, sans-serif" font-size="11" fill="#94A3B8">LLMs &bull; RAG &bull; Agentic AI</text>
+    <text x="105" y="435" font-family="system-ui, sans-serif" font-size="11" fill="#94A3B8">LLMs &#8226; RAG &#8226; Agentic AI</text>
   </g>
 </svg>
