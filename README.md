@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner.svg">
-    <img src="assets/banner.svg" width="100%" alt="Vinodraj - Full Stack Developer & AI Engineer" style="max-width: 900px;">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner.svg?v=2">
+    <img src="assets/banner.svg?v=2" width="100%" alt="Vinodraj - Full Stack Developer & AI Engineer" style="max-width: 900px;">
   </picture>
 </div>
 
@@ -37,7 +37,7 @@ skills    : Frontend, Backend, Cloud (Azure), AI/ML, System Design
 <br/>
 
 <p align="center">
-  <img src="assets/avatar-frame.svg" width="160" alt="Avatar">
+  <img src="assets/avatar-frame.svg?v=2" width="160" alt="Avatar">
 </p>
 
 ---
@@ -170,7 +170,7 @@ skills    : Frontend, Backend, Cloud (Azure), AI/ML, System Design
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinodrajvtr&bg_color=0D1117&color=00E5FF&line=00E5FF&point=7C3AED&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+  <img src="https://ghchart.rshah.org/00E5FF/vinodrajvtr" alt="Vinodraj's GitHub Activity Graph"/>
 </div>
 
 ---
@@ -201,7 +201,7 @@ skills    : Frontend, Backend, Cloud (Azure), AI/ML, System Design
 </div>
 
 <div align="center">
-  <img src="assets/footer-wave.svg" width="100%" alt="Footer" style="max-width: 900px;">
+  <img src="assets/footer-wave.svg?v=2" width="100%" alt="Footer" style="max-width: 900px;">
 </div>
 
 <div align="center">
