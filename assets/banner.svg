@@ -33,6 +33,6 @@
   <line x1="50" y1="235" x2="300" y2="235" stroke="url(#primaryGrad)" stroke-width="2" opacity="0.4"/>
   <rect x="50" y="260" width="160" height="38" rx="19" fill="rgba(0,229,255,0.15)" stroke="url(#primaryGrad)" stroke-width="1"/>
   <text x="130" y="284" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="600" fill="#00E5FF" text-anchor="middle">Explore My Work</text>
-  <text x="620" y="100" font-family="monospace" font-size="80" font-weight="300" fill="#00E5FF" opacity="0.15"></></text>
+  <text x="620" y="100" font-family="monospace" font-size="80" font-weight="300" fill="#00E5FF" opacity="0.15">&lt;/&gt;</text>
   <text x="740" y="200" font-family="monospace" font-size="60" font-weight="300" fill="#7C3AED" opacity="0.1">{ }</text>
 </svg>
