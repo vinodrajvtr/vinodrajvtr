@@ -25,7 +25,7 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name      : Vinodraj
+name      : Vinodraj Thenraj
 role      : Full Stack Developer / AI Engineer
 experience: 5+ years in full stack development, 2+ years in AI engineering
 focus     : Generative AI · Agentic Systems · Full Stack Engineering
