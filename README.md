@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Building+AI+Products+with+React+%2B+Next.js;Full+Stack+Developer+%2F+AI+Engineer;4%2B+years+of+professional+experience;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+.NET+Core;LLMs+%E2%80%A2+LangChain+%E2%80%A2+RAG+%E2%80%A2+Agentic+AI;Always+Learning+%E2%80%A2+Open+Source" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Building+AI+Products+with+React+%2B+Next.js;Full+Stack+Developer+%2F+AI+Engineer;5%2B+years+of+professional+experience;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+.NET+Core;LLMs+%E2%80%A2+LangChain+%E2%80%A2+RAG+%E2%80%A2+Agentic+AI;Always+Learning+%E2%80%A2+Open+Source" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -27,7 +27,7 @@
 ```yaml
 name      : Vinodraj
 role      : Full Stack Developer / AI Engineer
-experience: 4+ years in full stack development, 2+ years in AI engineering
+experience: 5+ years in full stack development, 2+ years in AI engineering
 focus     : Generative AI · Agentic Systems · Full Stack Engineering
 currently : Building AI-powered applications with LangChain, RAG & LLMs
 ask_me    : React, Next.js, TypeScript, .NET Core, Python, LangChain, LLMs
@@ -46,10 +46,10 @@ skills    : Frontend, Backend, Cloud (Azure), AI/ML, System Design
 
 | Role | Focus | Period |
 |------|-------|--------|
-| 🟣 **Full Stack Developer** | React, Next.js, .NET Core, TypeScript | 4+ years |
+| 🟣 **Full Stack Developer** | React, Next.js, .NET Core, TypeScript | 5+ years |
 | 🔵 **AI Engineer** | LLMs, RAG, LangChain, Agentic AI | 2+ years |
 | 🟢 **Architecture & Performance** | Scalable microservices, DB optimization | Ongoing |
-| 🟡 **Team Collaboration** | Agile, code reviews, mentoring | 4+ years |
+| 🟡 **Team Collaboration** | Agile, code reviews, mentoring | 5+ years |
 
 ---
 
@@ -144,14 +144,18 @@ skills    : Frontend, Backend, Cloud (Azure), AI/ML, System Design
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=vinodrajvtr&theme=github-dark-blue&hide_border=true&stroke=00E5FF&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF&sideLabels=94A3B8&dates=64748B" alt="GitHub Streak" width="49%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinodrajvtr&theme=github_dark" alt="GitHub Stats" width="40%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinodrajvtr&theme=github_dark&bg_color=0D1117&border_color=0D1117&title_color=00E5FF&text_color=94A3B8&icon_color=7C3AED&chart_color=00E5FF" alt="Vinodraj's GitHub Profile Details" width="98%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinodrajvtr&theme=github_dark" alt="Top Languages" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vinodrajvtr&theme=github_dark" alt="Most Used Languages" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vinodrajvtr&theme=github_dark&utcOffset=5.5" alt="Productive Time" width="32%"/>
+  <img src="https://streak-stats.demolab.com?user=vinodrajvtr&theme=github-dark-blue&hide_border=true&stroke=00E5FF&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF&sideLabels=94A3B8&dates=64748B" alt="GitHub Streak" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinodrajvtr&theme=github_dark&bg_color=0D1117&border_color=0D1117&title_color=00E5FF&text_color=94A3B8&icon_color=7C3AED&chart_color=00E5FF" alt="GitHub Stats" width="40%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinodrajvtr&theme=github_dark&bg_color=0D1117&border_color=0D1117&title_color=00E5FF&text_color=94A3B8&icon_color=7C3AED&chart_color=00E5FF" alt="Top Languages" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vinodrajvtr&theme=github_dark&bg_color=0D1117&border_color=0D1117&title_color=00E5FF&text_color=94A3B8&icon_color=7C3AED&chart_color=00E5FF" alt="Most Used Languages" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vinodrajvtr&theme=github_dark&utcOffset=5.5&bg_color=0D1117&border_color=0D1117&title_color=00E5FF&text_color=94A3B8&icon_color=7C3AED&chart_color=00E5FF" alt="Productive Time" width="32%"/>
 </div>
 
 ---
@@ -161,16 +165,9 @@ skills    : Frontend, Backend, Cloud (Azure), AI/ML, System Design
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinodrajvtr/vinodrajvtr/output/github-contribution-grid-snake-dark.svg">
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/vinodrajvtr/vinodrajvtr/output/github-contribution-grid-snake-dark.svg" width="100%">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinodrajvtr/vinodrajvtr/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/vinodrajvtr/vinodrajvtr/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/00E5FF/vinodrajvtr" alt="Vinodraj's GitHub Activity Graph"/>
 </div>
 
 ---
@@ -178,7 +175,7 @@ skills    : Frontend, Backend, Cloud (Azure), AI/ML, System Design
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://img.shields.io/badge/4%2B_Years_Experience-00E5FF?style=for-the-badge&logo=medal&logoColor=black" alt="4+ Years" height="28"/>
+  <img src="https://img.shields.io/badge/5%2B_Years_Experience-00E5FF?style=for-the-badge&logo=medal&logoColor=black" alt="5+ Years" height="28"/>
   <img src="https://img.shields.io/badge/AI_Engineer-7C3AED?style=for-the-badge&logo=robot&logoColor=white" alt="AI Engineer" height="28"/>
   <img src="https://img.shields.io/badge/Full_Stack_Developer-38BDF8?style=for-the-badge&logo=code&logoColor=black" alt="Full Stack" height="28"/>
   <img src="https://img.shields.io/badge/Open_Source-000000?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source" height="28"/>
